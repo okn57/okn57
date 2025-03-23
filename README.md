@@ -4,6 +4,6 @@
   <samp>
     Hi there, I'm zencikanzy <br>
     I am an Full-Stack FrontEnd Developer <br>
-    <br><img src="https://count.getloli.com/get/@:zencikanzy?theme=asoul">
+    <br><img src="https://count.getloli.com/get/@:okn57?theme=asoul">
   </samp>
 </p>
